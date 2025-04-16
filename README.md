@@ -1,8 +1,8 @@
-# User Manager App in Angular 19,
+# User Manager App built with Angular 19
 
-This is a User Manager app developed in angular 19.
+This is a User Manager app developed in Angular 19.
 
-With this application you will be able to save data, list, edit and delete users data from the Local Storage.
+With this application you will be able to save, list, edit and delete user data from the Local Storage.
 
 You can access the app by <a href="https://user-manager-khaki.vercel.app/"><strong>clicking here</strong></a>.
 
@@ -10,14 +10,14 @@ You can access the app by <a href="https://user-manager-khaki.vercel.app/"><stro
 - Register a User,
 - Load State and City data from an external API
 - View the list of Users,
-- Search for a especific User,
-- Update Userdata,
-- Remove Userdata,
+- Search for a specific User,
+- Update User Data,
+- Remove User Data,
 
 ### Non-Functional Requirements and Styling:
 - Save and Retrieve data from LocalStorage,
 - Load City data according to the selected State,
-- Search and retrieve all users who had the search term,
+- Search and retrieve all users that contain the search term,
 - Use the same Form Component to Register or Update data,
 
 ![screenshot](public/screenshot.png)
@@ -28,12 +28,12 @@ You can access the app by <a href="https://user-manager-khaki.vercel.app/"><stro
 - Repetition (@for)
 - CRUD (Create, Read, Update and Delete)
 - SCSS
-- Routes, Dinamic Routes and Params Query
+- Routes, Dynamic Routes and Query Params
 - LocalStorage
-- Components Life Cicle
+- Components Lifecycle
 - Http Fetch
 - Observable and Subscribe
-- SnackBar (For dinamic text feedback)
+- SnackBar (For dynamic text feedback)
 - Numbers Mask (Ex: "123.123.123-12" or "01/01/1111")
 
 ---
