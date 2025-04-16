@@ -33,8 +33,8 @@ You can access the app by <a href=""><strong>clicking here</strong></a>.
 - Components Life Cicle
 - Http Fetch
 - Observable and Subscribe
-- SnackBar (dinamic text feedback)
-- Http Numbers Mask ("123.123.123-12" or "01/01/1111")
+- SnackBar (For dinamic text feedback)
+- Numbers Mask (Ex: "123.123.123-12" or "01/01/1111")
 
 ---
 
